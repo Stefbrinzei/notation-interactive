@@ -1,0 +1,65 @@
+.texte-carte{
+    font-weight: 400px;
+    font-family: "Overpass", sans-serif;
+    color: hsl(217, 12%, 63%);
+}
+
+.titre-carte{
+    font-weight: 700px;
+    font-family: "Overpass", sans-serif;
+    color: hsl(0, 0%, 100%);
+    padding-top: 10px;
+}
+
+.btn-envoyer{
+    background-color: hsl(25, 97%, 53%);
+    font-family: "Overpass", sans-serif;
+    color: white;
+    border-radius: 50Px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-note{
+    background-color: #3f4147;
+    color: hsl(217, 12%, 63%); 
+    border: none;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-note:hover{
+    background-color: hsl(25, 97%, 53%);
+    transform: scale(1.05);
+}
+
+.allbtn-note{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.card{
+    background-color: hsl(213, 19%, 18%);
+    padding: 20px;
+}
+
+body{
+    background-color: hsl(216, 12%, 8%);
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;    
+}
+
+.icon-star{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+}

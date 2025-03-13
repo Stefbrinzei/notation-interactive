@@ -1,0 +1,63 @@
+body {
+    font-family: "OverPass", sans-serif;
+    background-color: hsl(216, 12%, 8%);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.p{
+    color:  hsl(217, 12%, 63%);
+    margin-top: 30px;
+}
+
+.title{
+    margin-top: 35px;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.thank-you-card {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: hsl(216, 12%, 18%);
+    
+}
+
+.merci {
+    width: 130px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.selection {
+    background-color: #3f4147;
+    color: hsl(25, 97%, 53%);
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.coder {
+    font-size: 12px;
+    margin-top: 20px;
+}
